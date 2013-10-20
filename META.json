@@ -65,18 +65,18 @@
    "provides" : {
       "JSON::RPC2::AnyEvent" : {
          "file" : "lib/JSON/RPC2/AnyEvent.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "JSON::RPC2::AnyEvent::Constants" : {
          "file" : "lib/JSON/RPC2/AnyEvent/Constants.pm"
       },
       "JSON::RPC2::AnyEvent::Server" : {
          "file" : "lib/JSON/RPC2/AnyEvent/Server.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "JSON::RPC2::AnyEvent::Server::Handle" : {
          "file" : "lib/JSON/RPC2/AnyEvent/Server/Handle.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -90,5 +90,5 @@
          "web" : "https://github.com/Maki-Daisuke/p5-JSON-RPC2-AnyEvent"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
